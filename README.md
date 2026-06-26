@@ -35,8 +35,6 @@
 - Playing Minecraft as **MaxJubayerYT**.
 - Streaming and posting dev/gameplay content.
 
-**Open source. Blue-coded. Running on hardware it shouldn't.**
-
 ---
 
 ## Profile Views
