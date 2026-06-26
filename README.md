@@ -24,7 +24,11 @@
 
 ---
 
-### 🔧 What I'm Doing?
+##  Live Discord Status
+
+[![](https://lanyard.cnrad.dev/api/1198528729589231616?theme=dark&bg=0a1428&borderRadius=10px&showDisplayName=true)](https://discord.com/users/YOUR_DISCORD_ID)
+
+---
 
 - Maintaining CopperLauncher — a Minecraft: Java Edition launcher for Android, forked from PojavLauncher/Amethyst-Android.
 - Currently on `feat/misc`: fixing shits.
@@ -41,13 +45,13 @@
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MaxJubayerYT) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/MaxJubayerYT) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@MaxJubayerYT) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/CopperLauncher) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxJubayerYT)
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 [![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxJubayerYT&show_icons=true&theme=transparent&title_color=1E90FF&icon_color=4FC3F7&text_color=ffffff&hide_border=true)](https://github.com/MaxJubayerYT)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxJubayerYT&layout=compact&theme=transparent&title_color=1E90FF&text_color=ffffff&hide_border=true)](https://github.com/MaxJubayerYT)
