@@ -10,8 +10,11 @@
 
 <br>
 
+<div align="center">
+
 <img width="400" height="300" alt="1000123992" src="https://github.com/user-attachments/assets/2594dab2-3874-4982-a788-1960d8f45af6" />
 
+</div>
 
 ### about
 
