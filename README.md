@@ -10,6 +10,9 @@
 
 <br>
 
+<img width="400" height="300" alt="1000123992" src="https://github.com/user-attachments/assets/2594dab2-3874-4982-a788-1960d8f45af6" />
+
+
 ### about
 
 I lead **[CopperLauncher](https://github.com/CopperLauncher/Copper-Android)** a Minecraft: Java Edition launcher for Android, forked from PojavLauncher/Amethyst. It's the thing that lets you play Minecraft Java on a phone, and most of my time goes into keeping it from breaking.
