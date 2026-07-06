@@ -31,12 +31,6 @@ Outside the launcher I publish mods on **[Modrinth](https://modrinth.com/user/Ma
 
 <br>
 
-### stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaxJubayerYT&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxJubayerYT&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=2563EB" height="165"/>
-</div>
 
 <br>
 
