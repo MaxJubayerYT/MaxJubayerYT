@@ -20,7 +20,7 @@
 
 I lead **[CopperLauncher](https://github.com/CopperLauncher/Copper-Android)** a Minecraft: Java Edition launcher for Android, forked from PojavLauncher/Amethyst. It's the thing that lets you play Minecraft Java on a phone, and most of my time goes into keeping it from breaking.
 
-Outside the launcher I publish mods on **[Modrinth](https://modrinth.com/user/MaxJubayerYT)** — Pojavly Optimized, OptiDroid, Mojo Optimized, etc.
+Outside the launcher I publish modpacks & mods on **[Modrinth](https://modrinth.com/user/MaxJubayerYT)** — Pojavly Optimized, OptiDroid, Mojo Optimized, PreferOpengl etc.
 
 <br>
 
