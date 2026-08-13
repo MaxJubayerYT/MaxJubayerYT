@@ -27,12 +27,27 @@ Outside the launcher I publish modpacks & mods on **[Modrinth](https://modrinth.
 <div align="center">
 <a href="https://github.com/CopperLauncher/Copper-Android"><img src="https://img.shields.io/badge/CopperLauncher-2563EB?style=for-the-badge&logo=github&logoColor=white" alt=""/></a>
 <a href="https://modrinth.com/user/MaxJubayerYT"><img src="https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white"/></a>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=MaxJubayerYT&style=for-the-badge&color=2563EB)
+  [![Copper Stars](https://img.shields.io/github/stars/CopperLauncher/Copper-Android?style=for-the-badge&logo=github&logoColor=white&label=Copper%20Stars&color=2563EB)](https://github.com/CopperLauncher/Copper-Android)
 </div>
 
 <br>
 
+<div align="center">
+
+</div>
 
 <br>
+
+<div align="center">
+  
+### stats
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MaxJubayerYT&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxJubayerYT&theme=react-dark&bg_color=00000000&hide_border=true)](https://github.com/MaxJubayerYT)
+
+</div>
 
 ### find me elsewhere
 
