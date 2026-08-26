@@ -28,6 +28,8 @@ I lead **[CopperLauncher](https://github.com/CopperLauncher/Copper-Android)** a 
 
 Outside the launcher I publish modpacks & mods on **[Modrinth](https://modrinth.com/user/MaxJubayerYT)** — Pojavly Optimized, OptiDroid, Mojo Optimized, PreferOpengl etc.
 
+---
+
 <br>
 
 <div align="center">
@@ -48,6 +50,8 @@ Outside the launcher I publish modpacks & mods on **[Modrinth](https://modrinth.
 
 <br>
 
+---
+
 <div align="center">
 
 ## Repositories I contribute
@@ -58,6 +62,8 @@ Outside the launcher I publish modpacks & mods on **[Modrinth](https://modrinth.
 ### PojavLauncher (Pojav Reborn / Rewrite)
 [![PojavLauncher](https://github-stats-extended.vercel.app/api/pin/?username=TeamPojavLauncher&repo=PojavLauncher&theme=transparent&title_color=1E90FF&text_color=ffffff&icon_color=4FC3F7&hide_border=true)](https://github.com/TeamPojavLauncher/PojavLauncher)
 
+---
+
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MaxJubayerYT&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
@@ -65,6 +71,8 @@ Outside the launcher I publish modpacks & mods on **[Modrinth](https://modrinth.
 ![Profile Views](https://komarev.com/ghpvc/?username=MaxJubayerYT&style=for-the-badge&color=2563EB)
 
 </div>
+
+---
 
 ## Find me elsewhere
 
