@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm MaxJubayerYT :D
+# Hi, I'm MaxJubayerYT (aka. MaxDev) :D
 
 *Not doing anything else but coding and eating rice.*
 
@@ -21,6 +21,9 @@
 </div>
 
 ---
+## About me
+
+Hi, My actual govt name is Abdullah al Jubayer, I'm 16 years old. I was born in 2009 10th of December, Currently in class 9. Nothing to do except coding and studying. I got science as my main subject with Higher Math as additional. I love doing minecraft stuff like making mods, modpacks etc. I would love to lean more but as a teen its kind of impossible but I am trying my best :3
 
 ## About my work
 
